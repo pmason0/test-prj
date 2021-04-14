@@ -106,6 +106,7 @@ level of detail of your work and its results.
 Table with role names, person names, and their expectations with respect
 to the architecture and its documentation.
 
+
 +-------------+---------------------------+---------------------------+
 | Role/Name   | Contact                   | Expectations              |
 +=============+===========================+===========================+
